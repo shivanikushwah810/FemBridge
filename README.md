@@ -1,3 +1,4 @@
+![WhatsApp Image 2026-04-10 at 09 14 43](https://github.com/user-attachments/assets/b4e25a2c-f245-4f93-9176-ffb462957f80)
 # 🌸 FemBridge – Women's Career Portal
 
 A full-stack web application with AI-powered job recommendations, resume analysis, and chatbot support.
