@@ -21,7 +21,7 @@ python app.py
 ```
 > Server runs at: **http://localhost:5000**
 
-### 3. Open the Frontend
+### 3. Open the Frontend -
 Open `frontend/index.html` in your browser directly, or serve it with:
 ```bash
 cd frontend
