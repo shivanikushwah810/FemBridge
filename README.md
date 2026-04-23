@@ -7,7 +7,7 @@ A full-stack web application with AI-powered job recommendations, resume analysi
 
 --
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
 ### 1. Install Backend Dependencies
 ```bash
